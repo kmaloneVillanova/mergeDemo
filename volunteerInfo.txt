@@ -1,6 +1,5 @@
 CSC 2053 Platform Computing
-Student Volunteers (add your name here):
-Student Volunteers:
+Student Volunteers (add your name here and email):
 
 David Guevara
 
@@ -9,3 +8,5 @@ Sebastian Flores
 Connor Skevington
 
 Sam Rizzo
+
+Beebe Jackson
