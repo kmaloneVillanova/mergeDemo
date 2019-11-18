@@ -1,3 +1,6 @@
 CSC 2053 Platform Computing
 Student Volunteers:
+
 David Guevara
+
+Sebastian Flores
